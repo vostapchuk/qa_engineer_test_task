@@ -45,5 +45,7 @@ different types
 3. Write 3 requirements for Customer contact add
 
 * The fields Email, Phone and Name are required.
-* The field Phone should contain only numeric type.
+* The field Phone should contain only numbers.
 * The field Email should contain "@" symbol.
+* The field Name should contain only chars.
+* The field Zip code should contain only numbers.
