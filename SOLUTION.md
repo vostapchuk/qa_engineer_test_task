@@ -1,6 +1,6 @@
 # Solution Vadym Ostapchuk 
 
-# Project: https://github.com/vostapchuk/qa_engineer_test_task.git
+Project: https://github.com/vostapchuk/qa_engineer_test_task.git
 
 Task 2
 ==================
@@ -53,3 +53,5 @@ different types
 * The field Email should contain "@" symbol.
 * The field Name should contain only chars.
 * The field Zip code should contain only numbers.
+
+Bug report: https://github.com/vostapchuk/qa_engineer_test_task/issues
