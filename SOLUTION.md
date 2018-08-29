@@ -1,3 +1,7 @@
+# Solution Vadym Ostapchuk 
+
+# Project: https://github.com/vostapchuk/qa_engineer_test_task.git
+
 Task 2
 ==================
 1. Write user story for Customer contact add according to Agile best practice
