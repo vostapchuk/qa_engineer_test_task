@@ -51,7 +51,7 @@ different types
 * The fields Email, Phone and Name are required.
 * The field Phone should contain only numbers.
 * The field Email should contain "@" symbol.
-* The field Name should contain only chars.
+* The field Name should contain only letters.
 * The field Zip code should contain only numbers.
 
 Bug report: https://github.com/vostapchuk/qa_engineer_test_task/issues
